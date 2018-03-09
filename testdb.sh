@@ -1,6 +1,4 @@
-#input=$1
-#JBOSS_ver=`ls -lrt /apps |grep jboss |grep "^l" | awk '{print $11}'`
-#JBOSS_HOME=/apps/${JBOSS_ver}
+
 dstmp=/tmp/dstmp
 dblist=/tmp/dblist
 
